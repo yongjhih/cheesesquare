@@ -3,6 +3,8 @@
 Cheesesquare Sample
 ===================================
 
+https://appetize.io/app/b7efhgamek799nd7fckt86ggrm
+
 Demos the new Android Design library. This is not an exhaustive sample, but shows
 some of the important features in the Design library:
 
